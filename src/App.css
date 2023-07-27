@@ -1,0 +1,154 @@
+body{
+  margin: 0px;
+  resize: both;
+overflow: auto;
+font-family: 'Roboto', sans-serif;
+
+}
+#First_Part{
+  font-family: 'Roboto', sans-serif;
+  margin-top: -32px;
+  margin-bottom: -15px;
+
+  background:#FFCD9E;
+  height: 65vh;
+  
+}
+#Second_Part{
+  background: black;
+  height: 35vh;
+  padding-bottom: 20px;
+  
+  
+}
+.Image{
+  position:absolute;
+  top: 10px;
+ right: 8%;
+ height: 420px;
+ width:  450px;
+   
+}
+.heading{
+
+  padding-left: 150px;
+  padding-top: 55px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 32px;
+  width: 80%;
+  color:#282828;
+
+ }
+
+.paragraph{
+  margin-top: -50px;
+  padding-left: 150px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 100px;
+  line-height: 28px;
+  letter-spacing: 0em;
+
+  width: 495px;
+  height: 81px;
+  top: 219px;
+  left: 136px;
+
+}
+
+.Para_two{
+  margin-top: -12px;
+  color:#282828;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 700;
+  padding-left: 150px;
+  margin-bottom: 25px;
+
+
+
+}
+.e-mail_input{
+  font-family: 'Roboto', sans-serif;
+  margin-top: 5px;
+  margin-left: 150px;
+  border-radius: 8px;
+  border: 3px solid black;
+  padding-left: 28px;
+  padding-top: 12px;
+  padding-bottom: 15px;
+  padding-right: 75px;
+  font-size: 16px;
+  
+}
+.Register_Now{
+  margin: 4px;
+  padding-left: 32px;
+  padding-top: 10px;
+  padding-bottom: 13px;
+  padding-right: 35px;
+
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  font-weight: 200;
+  line-height: 22px;
+  letter-spacing: 0em;
+  text-align: center;
+
+  border-radius: 8px;
+  background: #282828;
+  color: #FFFFFF;
+
+}
+.subtitle{
+  color: white;
+  font-size: 12px;
+  padding-left: 200px;
+  font-family: 'Roboto', sans-serif;
+
+
+}
+ol li{
+  font-family: 'Roboto', sans-serif;
+  font-size: 15px;
+  display: block;
+  padding-left: 170px;
+  list-style-type: none;
+  color: white;
+  line-height: 35px;
+}
+
+#lists{
+  display: block;
+  padding-top: 20px;
+}
+
+#connect_info{
+  top: -190px;
+  right: 220px;
+  color: #FFFFFF;
+  position: relative;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+  
+}   
+#connect_image{
+  position: absolute;
+  right: 220px;
+  bottom: 105px;
+}
+.connect_info_two{
+  top: -120px;
+  right: 220px;
+  color: #FFFFFF;
+  position: relative;
+  text-align: right;
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 20px;
+}
+
